@@ -1,4 +1,4 @@
-# Random Jokes Generator Website(https://random-jokes-generator-theta.vercel.app)
+# Random Jokes Generator Website
 
 ## Introduction
 
